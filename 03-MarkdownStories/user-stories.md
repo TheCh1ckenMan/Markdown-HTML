@@ -1,22 +1,22 @@
-# The Wonderful Island of Santorini #
+# Webpage for Clothing Store #
 
-The island of Santorini is a beautiful place to travel and vacation. There are beautiful views and great culture and food as well.  
+This is a user story for a web page for a clothing store. We will discuss a few things to help better navigate this page.   
 
 [Link to my Github Repository](https://github.com/TheCh1ckenMan/Markdown-HTML.git)
 
 ___
 
-## User Stories of Santorini ##
+## User Stories for Webpage ##
 
-1. Cliff jumping at St Nicholas Church was fantastic, the fish restaurants have amazing produce straight from the sea
-1. This place is absolutely amazing! This is the spot from where people take pictures of the famous Oia windmills, although many people know this and take advantage of this making it a very popular destination for tourists during sunset.
-
-1. Best time to go here would be after dark. You'll have the place to yourself and get the gift of seeing the beauty of Santorini being bathed in ambient light!
+1. Once you have access to the web page you will directed to the home page. From the home page you will find multiple links on the top of the screen that will direct you to other parts of the webpage. 
+1. To go back to the home page there will be a link at the top of the page no matter which page you are on.
+1. There is an option for checking your cart's inventory on the top left of the screen. 
+1. When you pick an article of clothing it will as for your size and color with a drop down menu. 
 
 ___
 
 
-![Santorini](santorini.jpg)
+![Picture](dress.jpg)
 
 
 
